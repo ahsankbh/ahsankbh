@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ahsan Asghar, working as a Data Engineer at Devsloop
+- 👀 I’m interested in data engineering, cloud computing, and data analytics
+- 🌱 I’m currently learning advanced data pipeline architectures and machine learning integrations
+- 💞️ I’m looking to collaborate on open-source data tools and analytics projects
+- 📫 How to reach me: https://www.linkedin.com/in/ahsan-asghar-237096189/ 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring new tech trends and am a coffee enthusiast ☕
